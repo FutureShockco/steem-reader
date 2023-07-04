@@ -1,0 +1,14 @@
+{
+  "name": "steem-redear",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "connection-string": "^2.7.1",
+    "dsteem": "^0.11.3",
+    "express": "^4.17.1",
+    "mysql": "^2.16.0"
+  }
+}
